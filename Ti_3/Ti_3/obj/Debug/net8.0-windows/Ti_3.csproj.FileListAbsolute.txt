@@ -1,0 +1,16 @@
+C:\Гавно\Учеба-Сучеба\4 сем\ТИ_2025\лаба 3\Ti_3\Ti_3\bin\Debug\net8.0-windows\Ti_3.exe
+C:\Гавно\Учеба-Сучеба\4 сем\ТИ_2025\лаба 3\Ti_3\Ti_3\bin\Debug\net8.0-windows\Ti_3.deps.json
+C:\Гавно\Учеба-Сучеба\4 сем\ТИ_2025\лаба 3\Ti_3\Ti_3\bin\Debug\net8.0-windows\Ti_3.runtimeconfig.json
+C:\Гавно\Учеба-Сучеба\4 сем\ТИ_2025\лаба 3\Ti_3\Ti_3\bin\Debug\net8.0-windows\Ti_3.dll
+C:\Гавно\Учеба-Сучеба\4 сем\ТИ_2025\лаба 3\Ti_3\Ti_3\bin\Debug\net8.0-windows\Ti_3.pdb
+C:\Гавно\Учеба-Сучеба\4 сем\ТИ_2025\лаба 3\Ti_3\Ti_3\obj\Debug\net8.0-windows\Ti_3.Form1.resources
+C:\Гавно\Учеба-Сучеба\4 сем\ТИ_2025\лаба 3\Ti_3\Ti_3\obj\Debug\net8.0-windows\Ti_3.csproj.GenerateResource.cache
+C:\Гавно\Учеба-Сучеба\4 сем\ТИ_2025\лаба 3\Ti_3\Ti_3\obj\Debug\net8.0-windows\Ti_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Гавно\Учеба-Сучеба\4 сем\ТИ_2025\лаба 3\Ti_3\Ti_3\obj\Debug\net8.0-windows\Ti_3.AssemblyInfoInputs.cache
+C:\Гавно\Учеба-Сучеба\4 сем\ТИ_2025\лаба 3\Ti_3\Ti_3\obj\Debug\net8.0-windows\Ti_3.AssemblyInfo.cs
+C:\Гавно\Учеба-Сучеба\4 сем\ТИ_2025\лаба 3\Ti_3\Ti_3\obj\Debug\net8.0-windows\Ti_3.csproj.CoreCompileInputs.cache
+C:\Гавно\Учеба-Сучеба\4 сем\ТИ_2025\лаба 3\Ti_3\Ti_3\obj\Debug\net8.0-windows\Ti_3.dll
+C:\Гавно\Учеба-Сучеба\4 сем\ТИ_2025\лаба 3\Ti_3\Ti_3\obj\Debug\net8.0-windows\refint\Ti_3.dll
+C:\Гавно\Учеба-Сучеба\4 сем\ТИ_2025\лаба 3\Ti_3\Ti_3\obj\Debug\net8.0-windows\Ti_3.pdb
+C:\Гавно\Учеба-Сучеба\4 сем\ТИ_2025\лаба 3\Ti_3\Ti_3\obj\Debug\net8.0-windows\Ti_3.genruntimeconfig.cache
+C:\Гавно\Учеба-Сучеба\4 сем\ТИ_2025\лаба 3\Ti_3\Ti_3\obj\Debug\net8.0-windows\ref\Ti_3.dll
